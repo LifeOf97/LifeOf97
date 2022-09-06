@@ -1,7 +1,7 @@
 ![MasterHead](./mainheader.png)
 <h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
 <h4 align="center">
-A fullstack python and JavaScript developer with over 2.5 years experience in web development. I also write scripts with python, work on Linux with Ubuntu distro. I use python with django for the back end and JavaScript with Vuejs for the frontend, creates and consumes RESTFUL APIs. Experience with Alibaba Cloud (same as AWS, Azur...), Docker, Digital Ocean, Vercel, Netlify and more. i seek to maintain full-time position or contracts that offers professional challenges utilising interpersonal skills, excellent time management and problem-solving skills. An excellent team player, reliable, dependable with problem solving skills.
+Okay....🤔. I am a Python and JavaScript developer with over 3 years experience in web development (With Strong Emphasis on Backend). I develop and consume secure RESTFUL APIs, work with various RDBMS like Postgresql, MySQL and also NoSQL like Redis, experience deploying securely to production with Alibaba Cloud (same as AWS, Azur, Google Cloud...), Docker, Nginx and more. I run unit testing with pytest in python and vitest, cypress in JavaScript (Vuejs), i use GitHub actions CI/CD, work in a Linux environment with the Ubuntu distro, an excellent team player, reliable, dependable with problem solving skills. Below is a set of language/tools i am fully proficient with.
 </h4>
 
 <p align="center">
