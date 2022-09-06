@@ -1,7 +1,7 @@
 ![MasterHead](./mainheader.png)
 <h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
 <h4 align="center">
-Okay....🤔. I am a Python and JavaScript developer with over 3 years experience in web development (With Strong Emphasis on Backend). I develop and consume secure RESTFUL APIs, work with various RDBMS like Postgresql, MySQL and also NoSQL like Redis, experience deploying securely to production with Alibaba Cloud (same as AWS, Azur, Google Cloud...), Docker, Nginx and more. I run unit testing with pytest in python and vitest, cypress in JavaScript (Vuejs), i use GitHub actions CI/CD, work in a Linux environment with the Ubuntu distro, an excellent team player, reliable, dependable with problem solving skills. Below is a set of language/tools i am fully proficient with.
+A fullstack python and JavaScript developer with over 2.5 years experience in web development. I also write scripts with python, work on Linux with Ubuntu distro. I use python with django for the back end and JavaScript with Vuejs for the frontend, creates and consumes RESTFUL APIs. Experience with Alibaba Cloud (same as AWS, Azur...), Docker, Digital Ocean, Vercel, Netlify and more. i seek to maintain full-time position or contracts that offers professional challenges utilising interpersonal skills, excellent time management and problem-solving skills. An excellent team player, reliable, dependable with problem solving skills.
 </h4>
 
 <p align="center">
@@ -26,7 +26,6 @@ Okay....🤔. I am a Python and JavaScript developer with over 3 years experienc
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
@@ -55,12 +54,13 @@ Okay....🤔. I am a Python and JavaScript developer with over 3 years experienc
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 
 
 ### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13)
@@ -70,7 +70,6 @@ Okay....🤔. I am a Python and JavaScript developer with over 3 years experienc
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
