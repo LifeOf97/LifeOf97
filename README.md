@@ -1,7 +1,10 @@
 ![MasterHead](./mainheader.png)
 <h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
 <h4 align="center">
-Okay....🤔. I am a Python and JavaScript developer with over 3 years experience in web development (With Strong Emphasis on Backend). I develop and consume secure RESTFUL APIs, work with various RDBMS like Postgresql, MySQL and also NoSQL like Redis, experience deploying securely to production with Alibaba Cloud (same as AWS, Azur, Google Cloud...), Docker, Nginx and more. I run unit testing with pytest in python and vitest, cypress in JavaScript (Vuejs), i use GitHub actions CI/CD, work in a Linux environment with the Ubuntu distro, an excellent team player, reliable, dependable with problem solving skills. Below is a set of language/tools i am fully proficient with.
+A Backend Developer with 3+ years experience in software development. Experienced in both Python and JavaScript programming. With strong knowledge of Django framework, Docker, Websocket, API development,
+ORM and Scripting. I have been freelancing since the start of my career and now seeking growth opportunities. I am ready to put in my 100% to work and learn so as to positively impact the system i find myself,
+and grow my skills at any given opportunity. work in a Linux environment with the Ubuntu distro, an excellent team player, reliable, dependable with problem solving skills. Below is a set of language/tools i
+am fully proficient with.
 </h4>
 
 <p align="center">
