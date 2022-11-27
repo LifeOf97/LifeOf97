@@ -1,10 +1,9 @@
 ![MasterHead](./mainheader.png)
 <h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
 <h4 align="center">
-A Backend Developer with 3+ years experience in software development. Experienced in both Python and JavaScript programming. With strong knowledge of Django framework, Docker, Websocket, API development,
-ORM and Scripting. I have been freelancing since the start of my career and now seeking growth opportunities. I am ready to put in my 100% to work and learn so as to positively impact the system i find myself,
-and grow my skills at any given opportunity. work in a Linux environment with the Ubuntu distro, an excellent team player, reliable, dependable with problem solving skills. Below is a set of language/tools i
-am fully proficient with.
+A Backend Developer with 3+ years experience in software development. Experienced in both Python and JavaScript programming. With strong knowledge of Django framework, Docker, Websocket, API development, ORM and Scripting.  I've got experience deploying securely to production with AWS, Alibaba Cloud and the likes.
+i use docker to containerize apps, Nginx to serve and more. i run unit testing with pytest in python and vitest, cypress in JavaScript (Vuejs), i use GitHub actions CI/CD, work in a Linux environment with the Ubuntu distro.
+I believe i am an excellent team player, reliable, dependable with problem solving skills. See my skill set below.
 </h4>
 
 <p align="center">
