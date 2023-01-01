@@ -1,4 +1,3 @@
-![MasterHead](./mainheader.png)
 <h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
 <h4 align="center">
 A Backend Developer with 3+ years experience in software development. Experienced in both Python and JavaScript programming. With strong knowledge of Django framework, Docker, Websocket, API development, ORM and Scripting.  I've got experience deploying securely to production with AWS, Alibaba Cloud and the likes.
