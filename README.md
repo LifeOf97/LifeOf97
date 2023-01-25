@@ -14,12 +14,15 @@ I believe i am an excellent team player, reliable, dependable with problem solvi
 
 
 <!-- Stats Card -->
+<!--
 # My Github Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=realestkma&hide=contribs&show_icons=true&count_private=true&title_color=22d3ee&text_color=334155&icon_color=94a3b8&bg_color=f8fafc&border_color=f1f5f9" />
+-->
 
 <!-- Top Languages -->
+<!--
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realestkma&layout=compact" />
-
+-->
 
 # My Skill Sets
 
