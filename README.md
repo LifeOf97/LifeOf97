@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
 <h4 align="center">
-A Backend Developer with 3+ years experience in software development. Experienced in both Python and JavaScript programming. With strong knowledge of Django framework, Docker, Websocket, API development, ORM and Scripting.  I've got experience deploying securely to production with AWS, Alibaba Cloud and the likes.
-i use docker to containerize apps, Nginx to serve and more. i run unit testing with pytest in python and vitest, cypress in JavaScript (Vuejs), i use GitHub actions CI/CD, work in a Linux environment with the Ubuntu distro.
-I believe i am an excellent team player, reliable, dependable with problem solving skills. See my skill set below.
+  I am a Software Engineer specializing in the design & development of backend systems with close to 3 years experience. Over the years, i have successfully built applications, including RESTful APIs, Web apps, Automated scripts and also integrated various third party systems ranging from authentication & authorization, payment systems and Blockchain solutions.
+
+As a software engineer, a major part of my goal is to deliver high-quality and secured software solutions, which are customer-centric and highly operational.
+
+Lately, my focus has been in design & development of scalable distributed systems and microservices.
+
+Experienced in both Python and JavaScript programming. With strong knowledge of the Django framework, Containerization, Websocket, API design & development, ORM, Scripting and deployment.
+
+I believe i am an excellent team player, reliable, dependable with problem solving skills.
 </h4>
 
 <p align="center">
