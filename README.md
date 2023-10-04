@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kelvin Mayowa</h1>
+<h1 align="center">NAME: Mayowa Kelvin</h1>
 <h4 align="center">
-  I am a Software Engineer specializing in the design & development of backend systems with close to 3 years experience. Over the years, i have successfully built applications, including RESTful APIs, Web apps, Automated scripts and also integrated various third party systems ranging from authentication & authorization, payment systems and Blockchain solutions.
+  A Software Developer specializing in the design & development of backend systems with close to 3 years experience. Over the years, i have successfully built applications, including RESTful APIs, Web apps, Automated scripts and also integrated various third party systems ranging from authentication & authorization, payment systems and Blockchain solutions.
 
 As a software engineer, a major part of my goal is to deliver high-quality and secured software solutions, which are customer-centric and highly operational.
 
