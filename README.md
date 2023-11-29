@@ -1,4 +1,4 @@
-<h1 align="center">NAME: Mayowa Kelvin</h1>
+<h1 align="center">Mayowa Kelvin</h1>
 <h4 align="center">
   A Software Developer specializing in the design & development of backend systems with close to 3 years experience. Over the years, i have successfully built applications, including RESTful APIs, Web apps, Automated scripts and also integrated various third party systems ranging from authentication & authorization, payment systems and Blockchain solutions.
 
