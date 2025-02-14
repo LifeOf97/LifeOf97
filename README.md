@@ -1,14 +1,13 @@
 <h1 align="center">Mayowa Kelvin</h1>
 <h4 align="center">
-  A Software Developer specializing in the design & development of backend systems with close to 3 years experience. Over the years, i have successfully built applications, including RESTful APIs, Web apps, Automated scripts and also integrated various third party systems ranging from authentication & authorization, payment systems and Blockchain solutions.
+  I am a Software Engineer specializing in the design & development of backend systems with close to 4 years experience. Over the years, i have successfully built applications, including RESTful APIs, Web apps, Automated scripts and also integrated various third party systems ranging from authentication & authorization, payment systems.
+  
+  As a backend engineer, a major part of my goal is to deliver high-quality and secured software solutions, which are customer-centric and highly operational. Lately, my focus has been in design & development of scalable distributed systems and micro-services.
+  
+  Experienced in both Python and 
+JavaScript programming. With strong knowledge of the python stack Django framework, Containerization, WebSocket, API design, development & integration, ORM, Scripting, deployment and maintenance.
 
-As a software engineer, a major part of my goal is to deliver high-quality and secured software solutions, which are customer-centric and highly operational.
-
-Lately, my focus has been in design & development of scalable distributed systems and microservices.
-
-Experienced in both Python and JavaScript programming. With strong knowledge of the Django framework, Containerization, Websocket, API design & development, ORM, Scripting and deployment.
-
-I believe i am an excellent team player, reliable, dependable with problem solving skills.
+ I believe i am an excellent team player, reliable, dependable with problem solving skills.
 </h4>
 
 <p align="center">
